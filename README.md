@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js, Node js, , Angular MongoDB, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hansdipanshu](https://github.com/hansdipanshu)
+- 👨‍💻 All of my projects are available at [https://github.com/PRATHAMSHARMA2004](https://github.com/PRATHAMSHARMA2004)
 
 - 💬 Ask me about **A passionate learning , eager to learn tech. Upgrading my skills regularly**
 
